@@ -1,4 +1,107 @@
 {
+  "template": 
+    {
+      "name": "Antibody",
+      "subSampleAlias": "aliquot",
+      "defaultUnitId": 3,
+      "quantity": null,
+     
+      "storageTempMin": {
+        "numericValue": 3,
+        "unitId": 8
+      },
+      "storageTempMax": {
+        "numericValue": 5,
+        "unitId": 8
+      },
+      "sampleSource": "LAB_CREATED",
+      "template": true,
+    "fields": [
+    {
+      "name": "Expiry",
+      "type": "date",
+      "content": null
+    },
+    {
+      "name": "Antigen",
+      "type": "string",
+      "content": null
+    },
+    {
+      "name": "Peptide",     
+      "type": "string",
+      "content": null 
+    },
+    {
+    
+      "name": "Applicable-species",
+     
+      "type": "choice",
+      "definition": {
+        "defaultOption": null,
+        "options": "Applicable-species=bovine&Applicable-species=fly&Applicable-species=human&Applicable-species=mouse&Applicable-species=nematode&Applicable-species=rat&Applicable-species=xenopus&Applicable-species=yeast&Applicable-species=zebrafish",
+        "multiple": false
+      },
+      "content": null
+    
+    },
+    {
+     
+      "name": "Clonality",
+     
+      "type": "radio",
+      "definition": {
+        "defaultOption": null,
+        "options": "Clonality=monoclonal&Clonality=polyclonal",
+        "multiple": false
+      },
+      "content": null    
+    },
+    {
+    
+      "name": "Isotype",    
+      "type": "radio",
+      "definition": {
+        "defaultOption": "IgG",
+        "options": "Isotype=IgG&Isotype=IgA&Isotype=IgD&Isotype=IgE&Isotype=IgG1&Isotype=IgG2&Isotype=IgG3&Isotype=IgG4&Isotype=IgM&Isotype=IgY",
+        "multiple": false
+      },
+      "content": null
+    },
+    {    
+      "name": "Applications",  
+      "type": "choice",
+      "definition": {
+        "defaultOption": null,
+        "options": "Applications=ChIP&Applications=ELISA&Applications=Flow Cytometry&Applications=Immunocytochemistry&Applications=Immunofluorescence&Applications=Immunohistochemistry&Applications=Western",
+        "multiple": false
+      },
+      "content": null
+    
+    },
+    {    
+      "name": "Dilutions",    
+      "type": "text",
+      "definition": null,
+      "content": null
+    },
+    {
+      "name": "Raised-in",
+      "type": "radio",
+      "definition": {
+        "defaultOption": null,
+        "options": "Raised-in=Chicken&Raised-in=Goat&Raised-in=Guinea Pig&Raised-in=Human&Raised-in=Mouse&Raised-in=Rabbit&Raised-in=Rat&Raised-in=Sheep",
+        "multiple": false
+      },
+      "content": null
+    },
+    {
+      "name": "Reference",
+      "type": "text",
+      "content": null
+    }
+  ]
+},
   "samples" : [ {
     "id" : null,
     "name" : "anti-CADH7_HUMAN",
