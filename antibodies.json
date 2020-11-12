@@ -1,0 +1,2404 @@
+{
+  "samples" : [ {
+    "id" : null,
+    "name" : "anti-CADH7_HUMAN",
+    "description" : "Anti- Melanophilin ",
+    "tags" : "eGciWDwzpA",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 39
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CADH7_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "VHYCWWVFCIRT",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "rat",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgM",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-513",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-NRG2_HUMAN",
+    "description" : "Anti- Peptidyl-prolyl cis-trans isomerase A-like 4F ",
+    "tags" : "HPIiLRNCla",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 72
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "NRG2_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "PYAKMQYQDCEE",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "mouse",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgE",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-205",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CXB6_HUMAN",
+    "description" : "Anti- KIF-binding protein ",
+    "tags" : "YvHFCVEOMz",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 217
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 6,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CXB6_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "PWKSCCKDEYRT",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG2",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:500",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-380",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-PRR30_HUMAN",
+    "description" : "Anti- ATP-sensitive inward rectifier potassium channel 8 ",
+    "tags" : "dJNiVCdxFR",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 183
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 1,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "PRR30_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "DPKCEVNVHCME",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-472",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-FGF20_HUMAN",
+    "description" : "Anti- Immunoglobulin kappa variable 2D-26",
+    "tags" : "PBYOiwixLb",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 370
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 2,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "FGF20_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "EANIDMPMGKNK",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG4",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Sheep",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-840",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ECE1_HUMAN",
+    "description" : "Anti- Dimethylaniline monooxygenase [N-oxide-forming] 1 ",
+    "tags" : "gfUEnvzTjS",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 120
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ECE1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "SGHHNATNYSNV",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgA",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-947",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-MELPH_HUMAN",
+    "description" : "Anti- Transcription factor HES-4 ",
+    "tags" : "KCSXFpQyjI",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 232
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "MELPH_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "WSMMGPGDTPNF",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgA",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ChIP",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-685",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-KTU_HUMAN",
+    "description" : "Anti- Protein FAM180A",
+    "tags" : "PUBnJBETQb",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 437
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 2,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "KTU_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "FSAGDCANGSLQ",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgA",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ChIP",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-52",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-SF3B5_HUMAN",
+    "description" : "Anti- Rho GTPase-activating protein 31 ",
+    "tags" : "stcBcZMMzI",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 189
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "SF3B5_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "DCCVYIDMHDRA",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG4",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Chicken",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-72",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-AJAP1_HUMAN",
+    "description" : "Anti- Ectonucleoside triphosphate diphosphohydrolase 7 ",
+    "tags" : "PMJxEKRIgs",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 408
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "AJAP1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "ENATPQEEPTRK",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgY",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-777",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-MSS51_HUMAN",
+    "description" : "Anti- Voltage-dependent anion-selective channel protein 1 ",
+    "tags" : "kUVdkaKWqs",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 395
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 1,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "MSS51_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "TTGVERFSFNLQ",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "yeast",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG4",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunohistochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Sheep",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-915",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-RGCC_HUMAN",
+    "description" : "Anti- Proline-rich protein 30",
+    "tags" : "QUUgSHxDQN",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 63
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 2,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "RGCC_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "PRCIMDKWLPEG",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgD",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-339",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-MUC21_HUMAN",
+    "description" : "Anti- Purkinje cell protein 2 homolog",
+    "tags" : "vWoEECApzv",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 118
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 5,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "MUC21_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "AQWSEHINCFIT",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG3",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-711",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CHSTA_HUMAN",
+    "description" : "Anti- Protein SSX7",
+    "tags" : "QYeEIzvLRR",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 243
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 17,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CHSTA_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "QMGWPICVQEPS",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "rat",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG1",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-317",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CR012_HUMAN",
+    "description" : "Anti- Moesin ",
+    "tags" : "xycMWFzoxi",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 171
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CR012_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "GGWDRWYWFWHE",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "mouse",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgE",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-238",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-LIPP_HUMAN",
+    "description" : "Anti- Myosin-IIIb ",
+    "tags" : "nmVcTRBUcx",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 306
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 2,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "LIPP_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "TCHRNEGAIGDA",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "rat",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgM",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-42",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ILK_HUMAN",
+    "description" : "Anti- Neurogenic locus notch homolog protein 3 ",
+    "tags" : "YhmNXDBqRY",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 177
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ILK_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "RLSFMPFNNAIF",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG2",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Western",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-79",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CADM1_HUMAN",
+    "description" : "Anti- Progonadoliberin-1 ",
+    "tags" : "rMLmAbUGYz",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 63
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CADM1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "IQGWTCNRMLSK",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG3",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunohistochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-581",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-UT14A_HUMAN",
+    "description" : "Anti- 40S ribosomal protein S28 ",
+    "tags" : "mMSZjXrkPP",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 149
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "UT14A_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "KTEPRFSNMAAQ",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-481",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-HV349_HUMAN",
+    "description" : "Anti- Cytochrome P450 7A1 ",
+    "tags" : "JhhyOSvvRM",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 96
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "HV349_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "KGFHSCSYMWMC",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "mouse",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG4",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ChIP",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:500",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-82",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-SCNBA_HUMAN",
+    "description" : "Anti- Renin receptor ",
+    "tags" : "GVYCRtHoFC",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 309
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "SCNBA_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "DIFWNPSRSGYF",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgE",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Western",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-353",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-RL14_HUMAN",
+    "description" : "Anti- Immunoglobulin heavy variable 3-49",
+    "tags" : "MrBYhEaJlE",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 376
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 5,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "RL14_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "ILELAPSYHGRS",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG2",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:250",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-59",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-RGCC_HUMAN",
+    "description" : "Anti- Reticulophagy regulator 3",
+    "tags" : "MDeavAZQKj",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 400
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "RGCC_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "RYMLAGNGDCSL",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgM",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:500",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-631",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-SG11B_HUMAN",
+    "description" : "Anti- Protein phosphatase Slingshot homolog 1 ",
+    "tags" : "BnZFrjOYQS",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 371
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "SG11B_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "EIMYLCSFLKRG",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG1",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-406",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-PSG3_HUMAN",
+    "description" : "Anti- Pro-neuregulin-2, membrane-bound isoform ",
+    "tags" : "ypJrJBpycU",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 31
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "PSG3_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "SLDSIESQPDKN",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "yeast",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG3",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-939",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-SND1_HUMAN",
+    "description" : "Anti- Glycoprotein hormone beta-5 ",
+    "tags" : "CYOcSuunrc",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 485
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "SND1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "AFNDDLCFRAMR",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgE",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-818",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-F228B_HUMAN",
+    "description" : "Anti- Free fatty acid receptor 1 ",
+    "tags" : "fvvnnVAgxQ",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 457
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 4,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "F228B_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "STRTLRSIDKID",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "yeast",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgD",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Sheep",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-766",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-PRDX4_HUMAN",
+    "description" : "Anti- SID1 transmembrane family member 1",
+    "tags" : "pbBhHmUlNl",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 84
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 5,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "PRDX4_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "CRGFRGSKPCGR",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgE",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Sheep",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-17",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-S31D4_HUMAN",
+    "description" : "Anti- Hepatitis A virus cellular receptor 2 ",
+    "tags" : "VcDkqGtoGb",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 496
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 7,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "S31D4_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "FDIDYTNSWFHT",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG1",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Chicken",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-236",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-LMOD3_HUMAN",
+    "description" : "Anti- Mitochondrial glutamate carrier 2 ",
+    "tags" : "OJefsAkZAW",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 331
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 1,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "LMOD3_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "AHQEHAERYLCW",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "zebrafish",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgA",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-720",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-GASP1_HUMAN",
+    "description" : "Anti- Regulator of cell cycle RGCC ",
+    "tags" : "sHkjZqqxXx",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 137
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 17,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "GASP1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "RWHDIRPKVITK",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgA",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ChIP",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-854",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-F228B_HUMAN",
+    "description" : "Anti- Protein FAM189A2 ",
+    "tags" : "XjUxxGdgth",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 218
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 1,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "F228B_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "NHQINEGGPFYE",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ChIP",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:250",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-91",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ABHD6_HUMAN",
+    "description" : "Anti- Probable non-functional immunoglobulin heavy variable 8-51-1",
+    "tags" : "YnlYfIpOvp",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 121
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ABHD6_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "TKVYPSENHRNR",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "rat",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgM",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-884",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-STRN4_HUMAN",
+    "description" : "Anti- Probable peptide chain release factor C12orf65, mitochondrial",
+    "tags" : "OQOUpUjNqB",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 469
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 2,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "STRN4_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "WEEIAMGQFREW",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "rat",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG2",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-420",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ARP19_HUMAN",
+    "description" : "Anti- Rho guanine nucleotide exchange factor 7 ",
+    "tags" : "dTehknngbW",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 150
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ARP19_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "NHTLLARSKHNS",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgY",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunohistochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-376",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-41_HUMAN",
+    "description" : "Anti- Serine/threonine-protein kinase RIO2 ",
+    "tags" : "CQZynJtxEF",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 388
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 2,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "41_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "MMFGGHVHSIFS",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgA",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "ELISA",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-603",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-F209A_HUMAN",
+    "description" : "Anti- Cartilage matrix protein ",
+    "tags" : "SBUAAYSDkv",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 156
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 5,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "F209A_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "VNEMCAGYVAKV",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgM",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunohistochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Sheep",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-878",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-MUC21_HUMAN",
+    "description" : "Anti- Exocyst complex component 3-like protein 2 ",
+    "tags" : "KqSTsTQegF",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 200
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "MUC21_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "QAPRIMGCRMRI",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "mouse",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgD",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Mouse",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-663",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CD045_HUMAN",
+    "description" : "Anti- Putative olfactory receptor 2W5",
+    "tags" : "XNJCjXOpVF",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 461
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CD045_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "NIIVMGFGNCGP",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "mouse",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgY",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:500",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-657",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-PEX12_HUMAN",
+    "description" : "Anti- Gilles de la Tourette syndrome chromosomal region candidate gene 1 protein",
+    "tags" : "jrfMbUcFdC",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 269
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 17,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "PEX12_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "YSQTPGQKDLMM",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgD",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunohistochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:50",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-635",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CP7A1_HUMAN",
+    "description" : "Anti- Serine/arginine-rich splicing factor 2 ",
+    "tags" : "vfQSgKCVIO",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 32
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CP7A1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "QREAERIIRRHQ",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgY",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-112",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-BAZ2A_HUMAN",
+    "description" : "Anti- Adrenocorticotropic hormone receptor ",
+    "tags" : "odeRuIYViw",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 389
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 16,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "BAZ2A_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "WRSQSLTYIGVK",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG1",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-789",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-SLX4_HUMAN",
+    "description" : "Anti- Eukaryotic initiation factor 4A-II ",
+    "tags" : "KqeRvVrTeD",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 399
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 1,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "SLX4_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "HHGTCCTGHTIM",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "yeast",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG4",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:250",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-509",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ARVC_HUMAN",
+    "description" : "Anti- Extended synaptotagmin-1 ",
+    "tags" : "CrtDcZgOhi",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 371
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 17,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ARVC_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "FPKENDHFGDHF",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG2",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Western",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:10",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Sheep",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-120",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ANR52_HUMAN",
+    "description" : "Anti- Phospholipid phosphatase-related protein type 1 ",
+    "tags" : "ebkHznRpBf",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 74
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ANR52_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "ECDDAWCIFVEA",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Chicken",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-735",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-CP7A1_HUMAN",
+    "description" : "Anti- Polycomb complex protein BMI-1 ",
+    "tags" : "JFtJhXKoDq",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 242
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "CP7A1_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "VESLTEEYSTAL",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgM",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Flow Cytometry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:1000",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Goat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-635",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-RDH5_HUMAN",
+    "description" : "Anti- Phytanoyl-CoA hydroxylase-interacting protein-like",
+    "tags" : "nVoscRMOSM",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 312
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "RDH5_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "VYSHYPCNHTCF",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG4",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Human",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-950",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-PRDX4_HUMAN",
+    "description" : "Anti- cTAGE family member 15 ",
+    "tags" : "mHpPSSgwTO",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 339
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "PRDX4_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "SFGAAPDDELMH",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "xenopus",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgE",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunohistochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:100",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Guinea Pig",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-169",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-ADA11_HUMAN",
+    "description" : "Anti- Putative uncharacterized protein FLJ38767",
+    "tags" : "VVrToicvmO",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 412
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 6,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "ADA11_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "MDGWDVLDPAKT",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "nematode",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgG",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunofluorescence",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:500",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rat",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-893",
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "anti-TTC16_HUMAN",
+    "description" : "Anti- Activin receptor type-1 ",
+    "tags" : "uAUiJzAhKm",
+    "quantity" : {
+      "unitId" : 3,
+      "numericValue" : 457
+    },
+    "templateId" : 1081345,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ { }, {
+      "name" : "Antigen",
+      "content" : "TTC16_HUMAN",
+      "type" : "string"
+    }, {
+      "name" : "Peptide",
+      "content" : "KYPIHSIMQTDT",
+      "type" : "string"
+    }, {
+      "name" : "Applicable-species",
+      "content" : "fly",
+      "type" : "choice"
+    }, {
+      "name" : "Clonality",
+      "content" : "polyclonal",
+      "type" : "radio"
+    }, {
+      "name" : "Isotype",
+      "content" : "IgD",
+      "type" : "radio"
+    }, {
+      "name" : "Applications",
+      "content" : "Immunocytochemistry",
+      "type" : "choice"
+    }, {
+      "name" : "Dilutions",
+      "content" : "1:250",
+      "type" : "text"
+    }, {
+      "name" : "Raised-in",
+      "content" : "Rabbit",
+      "type" : "radio"
+    }, {
+      "name" : "Reference",
+      "content" : "Abcam-87",
+      "type" : "text"
+    } ]
+  } ]
+}
+
