@@ -1,0 +1,3128 @@
+{
+  "samples" : [ {
+    "id" : null,
+    "name" : "FBst0000002",
+    "description" : null,
+    "tags" : "cIWVijavhS",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 15
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000002",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "w[*]; betaTub60D[2] Kr[If-1]/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "w[*]; betaTub60D[2] Kr[If-1]/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "2",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000004",
+    "description" : null,
+    "tags" : "MDwsIoGkNE",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 13
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000004",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Hikone-A-W",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Hikone-A-W",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "4",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000005",
+    "description" : null,
+    "tags" : "TijCTDdIQU",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 15
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000005",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Oregon-R-C",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Oregon-R-C",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "5",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000006",
+    "description" : null,
+    "tags" : "NKpGzuPYZT",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 9
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000006",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "P{ry[+t7.2]=hsFLP}1, w[1118]; Adv[1]/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "P{ry[+t7.2]=hsFLP}1, w[1118]; Adv[1]/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "6",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000007",
+    "description" : null,
+    "tags" : "HelrwiZwsy",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 11
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000007",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "P{ry[+t7.2]=hsFLP}1, y[1] w[1118]; Dr[Mio]/TM3, ry[*] Sb[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "P{ry[+t7.2]=hsFLP}1, y[1] w[1118]; Dr[Mio]/TM3, ry[*] Sb[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "7",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000008",
+    "description" : null,
+    "tags" : "IRfxpIApSr",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 6
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 6,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000008",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "ac[4] w[a]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "ac[4] w[a]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "8",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000010",
+    "description" : null,
+    "tags" : "PKauYeBTat",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 15
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000010",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "amx[1] lz[g] v[1]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "amx[1] lz[g] v[1]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "10",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000011",
+    "description" : null,
+    "tags" : "XwSdovQkTX",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 18
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000011",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Df(3L)HR218/In(3LR)T33[L]f19[R]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Df(3L)HR218/In(3LR)T33[L]f19[R]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "11",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000012",
+    "description" : null,
+    "tags" : "ltlioZMzmb",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 19
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000012",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "bi[1] ct[6] g[2]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "bi[1] ct[6] g[2]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "12",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000013",
+    "description" : null,
+    "tags" : "yjuOhhKjIr",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 8
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000013",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "bo[1] v[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "bo[1] v[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "13",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000014",
+    "description" : null,
+    "tags" : "UrhopYdWkt",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 15
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000014",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "br[1] w[e] ec[1] rb[1] t[4]/FM1, lz[+]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "br[1] w[e] ec[1] rb[1] t[4]/FM1, lz[+]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "14",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000015",
+    "description" : null,
+    "tags" : "COvdBhAQsr",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 7
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 7,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000015",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Bx[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Bx[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "15",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000016",
+    "description" : null,
+    "tags" : "ZqyGKDajoU",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 10
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000016",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "C(1)RM, y[1] P{w[+mC]=lacW}elav[5-45fD] w[*] P{lacW}ogre[5-45fP] P{lacW}3-52d P{lacW}3-76a/0/C(1;Y)13, v[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "C(1)RM, y[1] P{w[+mC]=lacW}elav[5-45fD] w[*] P{lacW}ogre[5-45fP] P{lacW}3-52d P{lacW}3-76a/0/C(1;Y)13, v[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "16",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000018",
+    "description" : null,
+    "tags" : "DrZsrtTzuP",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 12
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000018",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "mid[2] cn[1] bw[1] sp[1]/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "mid[2] cn[1] bw[1] sp[1]/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "18",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000019",
+    "description" : null,
+    "tags" : "hEmqbluQxp",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 19
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000019",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "car[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "car[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "19",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000020",
+    "description" : null,
+    "tags" : "kvsxjBmfOD",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 6
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 6,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000020",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "car[1] su(f)[8]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "car[1] su(f)[8]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "20",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000021",
+    "description" : null,
+    "tags" : "hoVrNDWdKH",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 16
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 16,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000021",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "cm[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "cm[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "21",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000022",
+    "description" : null,
+    "tags" : "wAGGSvwnXu",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 5
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 5,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000022",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "cm[1] ct[6]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "cm[1] ct[6]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "22",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000024",
+    "description" : null,
+    "tags" : "TTNcpboJbW",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 19
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000024",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "ct[n] oc[1]/FM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "ct[n] oc[1]/FM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "24",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000025",
+    "description" : null,
+    "tags" : "IGURJGBFmj",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 13
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000025",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Df(2L)cl-h1/CyO, amos[Roi-1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Df(2L)cl-h1/CyO, amos[Roi-1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "25",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000026",
+    "description" : null,
+    "tags" : "HOLUoVjvNr",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 16
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 16,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000026",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Myc[dm-1]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Myc[dm-1]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "26",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000027",
+    "description" : null,
+    "tags" : "fqZiCcmdGZ",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 8
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000027",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "PolD3[rd-1]/SM5",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "PolD3[rd-1]/SM5",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "27",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000028",
+    "description" : null,
+    "tags" : "nNiCeYSPcE",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 13
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000028",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "dor[8]/FM6",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "dor[8]/FM6",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "28",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000029",
+    "description" : null,
+    "tags" : "cdkODzmJzX",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 18
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000029",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "dow[1]/FM6",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "dow[1]/FM6",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "29",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000030",
+    "description" : null,
+    "tags" : "DRZnRnCmHE",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 18
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000030",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "dy[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "dy[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "30",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000031",
+    "description" : null,
+    "tags" : "CsUyPotPPu",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 19
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000031",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "w[118]; Df(2R)H3D3/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "w[118]; Df(2R)H3D3/CyO",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "31",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000032",
+    "description" : null,
+    "tags" : "ZIyHwhoIVQ",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 11
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000032",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "ec[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "ec[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "32",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000033",
+    "description" : null,
+    "tags" : "ctHxruVRZx",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 3
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 3,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000033",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "ec[1] ct[6] sable[1] car[1]/FM6",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "ec[1] ct[6] sable[1] car[1]/FM6",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "33",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000034",
+    "description" : null,
+    "tags" : "xOXDKyOtpd",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 4
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 4,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000034",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "ec[1] dx[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "ec[1] dx[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "34",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000035",
+    "description" : null,
+    "tags" : "qfCcMwDsty",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 14
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000035",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "dor[4]/C(1)RM, y[1] w[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "dor[4]/C(1)RM, y[1] w[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "35",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000036",
+    "description" : null,
+    "tags" : "KWFmBjAvQl",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 4
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 4,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000036",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "36",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000039",
+    "description" : null,
+    "tags" : "VcalREPijW",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 12
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000039",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "f[1] B[BB]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "f[1] B[BB]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "39",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000040",
+    "description" : null,
+    "tags" : "OOmyhySMfc",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 7
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 7,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000040",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "f[1] B[36b]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "f[1] B[36b]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "40",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000043",
+    "description" : null,
+    "tags" : "aPKfRzXEPB",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 8
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000043",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "f[36a]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "f[36a]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "43",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000044",
+    "description" : null,
+    "tags" : "bmoipGHSxn",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 3
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 3,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000044",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "f[1] su(f)[8]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "f[1] su(f)[8]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "44",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000045",
+    "description" : null,
+    "tags" : "IcKzRVjuIc",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 10
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000045",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "N[fa-1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "N[fa-1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "45",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000046",
+    "description" : null,
+    "tags" : "tyhqsNsgrA",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 14
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000046",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "flw[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "flw[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "46",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000047",
+    "description" : null,
+    "tags" : "qDRzmTqtBH",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 7
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 7,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000047",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "fo[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "fo[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "47",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000048",
+    "description" : null,
+    "tags" : "KgosZSEILq",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 15
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000048",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "N[fa-fx]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "N[fa-fx]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "48",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000049",
+    "description" : null,
+    "tags" : "XXztASLYKz",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 6
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 6,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000049",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "Df(3L)HR218, Dp(3;3)pdp7, ca[1]/TM6B, Tb[1] ca[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "Df(3L)HR218, Dp(3;3)pdp7, ca[1]/TM6B, Tb[1] ca[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "49",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000050",
+    "description" : null,
+    "tags" : "ddjnfogdnV",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 17
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 17,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000050",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "g[2] pl[1]/FM3",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "g[2] pl[1]/FM3",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "50",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000051",
+    "description" : null,
+    "tags" : "iASFfZgOPb",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 10
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000051",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "g[2] ty[1]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "g[2] ty[1]/C(1)DX, y[1] f[1]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "51",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0000052",
+    "description" : null,
+    "tags" : "VnRcfnTNmI",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 6
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 6,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0000052",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Bloomington",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "cn[1]; P{ry[+t7.2]=dpp[shv]-lacZ.RD2}RD2, ry[506]",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "cn[1]; P{ry[+t7.2]=dpp[shv]-lacZ.RD2}RD2, ry[506]",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "52",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308253",
+    "description" : null,
+    "tags" : "rJujzZuCoJ",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 18
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308253",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2050/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2050/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200232",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308255",
+    "description" : null,
+    "tags" : "tBiffsdRKX",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 8
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308255",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2057/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2057/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200234",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308256",
+    "description" : null,
+    "tags" : "QbFUzIrLOi",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 18
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308256",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2058/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2058/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200235",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308257",
+    "description" : null,
+    "tags" : "SCliiVmKxB",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 3
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 3,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308257",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2059/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2059/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200236",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308258",
+    "description" : null,
+    "tags" : "noJXnGNfQs",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 19
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308258",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2060/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2060/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200237",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308259",
+    "description" : null,
+    "tags" : "SdfXatOMVf",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 3
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 3,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308259",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2061/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2061/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200238",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308260",
+    "description" : null,
+    "tags" : "SbaySVpoUM",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 19
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 19,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308260",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2062/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2062/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200239",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308261",
+    "description" : null,
+    "tags" : "dqDgqMIEIy",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 9
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308261",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2063/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2063/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200240",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308262",
+    "description" : null,
+    "tags" : "CPPDRkEMpf",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 8
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308262",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2064/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2064/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200241",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308264",
+    "description" : null,
+    "tags" : "hSzMjzRJto",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 10
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308264",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2066/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2066/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200243",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308265",
+    "description" : null,
+    "tags" : "yMGhSDsWLR",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 13
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308265",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2068/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2068/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200244",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308267",
+    "description" : null,
+    "tags" : "JwJJyvwwwh",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 4
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 4,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308267",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2071/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2071/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200246",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308269",
+    "description" : null,
+    "tags" : "VBOnmgLvgx",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 9
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308269",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2075/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2075/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200248",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308271",
+    "description" : null,
+    "tags" : "dKZsUxOdsR",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 12
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308271",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}alpha4GT1[GS2078]/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2078/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200250",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308276",
+    "description" : null,
+    "tags" : "wlBnZVmeiY",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 8
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 8,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308276",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2085/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2085/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200255",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308279",
+    "description" : null,
+    "tags" : "StEXjWxXOt",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 11
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308279",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2088/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2088/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200258",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308284",
+    "description" : null,
+    "tags" : "mAcRiqoXfs",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 12
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308284",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2094/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2094/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200263",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308285",
+    "description" : null,
+    "tags" : "uKZKvXAqtB",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 14
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308285",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2099/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2099/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200264",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308286",
+    "description" : null,
+    "tags" : "siXxoVTgXp",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 5
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 5,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308286",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2101/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2101/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200266",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308289",
+    "description" : null,
+    "tags" : "lewSOypmAu",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 14
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 14,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308289",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2105/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2105/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200269",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308290",
+    "description" : null,
+    "tags" : "mEXfMYVrDR",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 13
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 13,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308290",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2106/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2106/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200270",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308291",
+    "description" : null,
+    "tags" : "BWqHpcChQg",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 18
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 18,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308291",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2108/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2108/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200271",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308292",
+    "description" : null,
+    "tags" : "EuNICtzSbA",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 11
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 11,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308292",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2110/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2110/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200272",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308293",
+    "description" : null,
+    "tags" : "xEdtPqBksh",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 12
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308293",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}chn[GS2112]/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2112/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200273",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308296",
+    "description" : null,
+    "tags" : "IFQtRXZBuk",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 15
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 15,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308296",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2117/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2117/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200276",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308298",
+    "description" : null,
+    "tags" : "QWQQoCzpDS",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 10
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 10,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308298",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2119/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}GS2119/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200278",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308299",
+    "description" : null,
+    "tags" : "EPwdvUYXLS",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 9
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 9,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308299",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}fy[GS2120]/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}fy[GS2120]/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200279",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  }, {
+    "id" : null,
+    "name" : "FBst0308300",
+    "description" : null,
+    "tags" : "yvpaFcqJjX",
+    "quantity" : {
+      "unitId" : 1,
+      "numericValue" : 12
+    },
+    "templateId" : 1310720,
+    "newSampleSubSamplesCount" : 12,
+    "fields" : [ {
+      "name" : "Flybase ID",
+      "content" : "FBst0308300",
+      "type" : "string"
+    }, {
+      "name" : "Collection Name",
+      "content" : "Kyoto",
+      "type" : "radio"
+    }, {
+      "name" : "Stock Type CV",
+      "content" : "living stock ; FBsv:0000002",
+      "type" : "string"
+    }, {
+      "name" : "Species",
+      "content" : "Dmel",
+      "type" : "string"
+    }, {
+      "name" : "FB Genotype",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}ADD1[GS2121]/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Description",
+      "content" : "y[1] w[67c23]; P{w[+mC]=GSV1}CG8290[GS2121]/SM1",
+      "type" : "string"
+    }, {
+      "name" : "Stock Number",
+      "content" : "200280",
+      "type" : "number"
+    }, {
+      "name" : "Notes",
+      "content" : null,
+      "type" : "text"
+    } ]
+  } ]
+}
+
